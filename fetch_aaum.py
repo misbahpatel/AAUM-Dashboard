@@ -56,20 +56,27 @@ def add_metrics(history_df):
     def make_sortable_quarter(row):
         for text, qcode in quarter_order_map.items():
             if row["period_label"].startswith(text):
-                fy_start_year = row["fy_label"].split()[1]  # use FY start year so Jan-Mar sorts correctly
+                fy_start_year = row["fy_label"].split()[1]
                 return f"{fy_start_year}-{qcode}"
         return None
 
     history_df["quarter_id"] = history_df.apply(make_sortable_quarter, axis=1)
     history_df["total_aaum"] = history_df["aaum_excl_fof"] + history_df["aaum_fof_domestic"]
 
-    # Each AMC's share of the total industry AAUM, per quarter
     history_df["market_share_pct"] = history_df.groupby("quarter_id")["total_aaum"].transform(
         lambda x: x / x.sum() * 100
     )
 
     history_df = history_df.sort_values(["amc_name", "quarter_id"]).reset_index(drop=True)
 
-    # % change vs previous quarter, and vs same quarter last year
     history_df["qoq_growth_pct"] = history_df.groupby("amc_name")["total_aaum"].pct_change() * 100
-    history_df["yoy_growth_pct"] =
+    history_df["yoy_growth_pct"] = history_df.groupby("amc_name")["total_aaum"].pct_change(periods=4) * 100
+
+    return history_df
+
+
+if __name__ == "__main__":
+    df = fetch_aaum_history(num_years=3)
+    df = add_metrics(df)
+    df.to_csv("aaum_history.csv", index=False)
+    print(f"Done. Saved {len(df)} rows to aaum_history.csv")
