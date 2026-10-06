@@ -213,7 +213,9 @@ def add_metrics(history_df, expected_periods):
     ).astype("Int64")
 
     tier_order = ["Emerging", "Mid-sized", "Large"]
-    grid["tier_changed"] = grid["prev_scale_tier"].notna() & ~same_tier
+   grid["tier_changed"] = (
+    grid["prev_scale_tier"].notna() & grid["scale_tier"].notna() & ~same_tier
+)
     grid["tier_change_direction"] = None
     grid.loc[grid["tier_changed"], "tier_change_direction"] = grid.loc[grid["tier_changed"]].apply(
         lambda r: "promoted" if tier_order.index(r["scale_tier"]) > tier_order.index(r["prev_scale_tier"])
