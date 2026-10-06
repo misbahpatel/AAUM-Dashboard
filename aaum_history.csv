@@ -8,9 +8,12 @@ amc_name,aaum_total,aaum_fof_domestic,period_label,fy_label,quarter_id,market_sh
 360 ONE Mutual Fund,1343364.47,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.17,Emerging,9,71.43,3.66,13.79,-0.22,-1,False,,55.85,76.16
 360 ONE Mutual Fund,1319387.87,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.16,Emerging,10,67.86,-1.78,16.33,-0.4,-1,False,,56.23,76.31
 360 ONE Mutual Fund,1305346.88,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.16,Emerging,10,67.86,-1.06,8.96,-0.48,0,False,,55.91,75.73
+360 ONE Mutual Fund,1282529.43,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.15,Emerging,10,70.97,-1.75,-1.04,-0.99,0,False,,55.44,75.03
+ASK MUTUAL FUND,10350.49,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.0,Emerging,28,12.9,,,,,False,,55.44,75.03
 Abakkus Mutual Fund,9106.42,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.0,Emerging,27,7.14,,,,,False,,55.85,76.16
 Abakkus Mutual Fund,312947.19,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.04,Emerging,18,39.29,3336.56,,3.73,9,False,,56.23,76.31
 Abakkus Mutual Fund,557987.08,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.07,Emerging,15,50.0,78.3,,2.87,3,False,,55.91,75.73
+Abakkus Mutual Fund,1010080.16,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.12,Emerging,12,64.52,81.02,,4.87,3,False,,55.44,75.03
 Aditya Birla Sun Life Mutual Fund,35254223.72,97515.97,April - June 2024,April 2024 - March 2025,2024-Q1,5.98,Large,6,37.5,,,,,False,,56.13,77.88
 Aditya Birla Sun Life Mutual Fund,38330857.58,101831.27,July - September 2024,April 2024 - March 2025,2024-Q2,5.79,Large,6,37.5,8.73,,-19.07,0,False,,56.14,77.47
 Aditya Birla Sun Life Mutual Fund,38391111.04,108882.88,October - December 2024,April 2024 - March 2025,2024-Q3,5.59,Large,6,37.5,0.16,,-19.31,0,False,,55.88,77.0
@@ -20,12 +23,15 @@ Aditya Birla Sun Life Mutual Fund,42517127.32,289467.11,July - September 2025,Ap
 Aditya Birla Sun Life Mutual Fund,44323276.43,380531.38,October - December 2025,April 2025 - March 2026,2025-Q3,5.47,Large,6,37.5,4.25,15.45,-4.02,0,False,,55.85,76.16
 Aditya Birla Sun Life Mutual Fund,43586595.89,487415.73,January - March 2026,April 2025 - March 2026,2025-Q4,5.35,Large,6,37.5,-1.66,14.18,-12.59,0,False,,56.23,76.31
 Aditya Birla Sun Life Mutual Fund,42767521.73,484862.71,April - June 2026,April 2026 - March 2027,2026-Q1,5.14,Large,6,37.5,-1.88,6.0,-20.17,0,False,,55.91,75.73
+Aditya Birla Sun Life Mutual Fund,44178697.09,487688.31,July - September 2026,April 2026 - March 2027,2026-Q2,5.07,Large,6,37.5,3.3,3.91,-7.85,0,False,,55.44,75.03
+AlphaGrep Mutual Fund,8984.05,769.1,July - September 2026,April 2026 - March 2027,2026-Q2,0.0,Emerging,29,9.68,,,,,False,,55.44,75.03
 Angel One Mutual Fund,1884.89,0.0,January - March 2025,April 2024 - March 2025,2024-Q4,0.0,Emerging,23,4.35,,,,,False,,55.86,76.89
 Angel One Mutual Fund,19700.33,0.0,April - June 2025,April 2025 - March 2026,2025-Q1,0.0,Emerging,23,4.35,945.17,,0.25,0,False,,56.07,76.81
 Angel One Mutual Fund,36059.97,373.16,July - September 2025,April 2025 - March 2026,2025-Q2,0.0,Emerging,24,8.0,83.04,,0.19,-1,False,,55.85,76.37
 Angel One Mutual Fund,43857.4,2107.28,October - December 2025,April 2025 - March 2026,2025-Q3,0.01,Emerging,25,14.29,21.62,,0.07,-1,False,,55.85,76.16
 Angel One Mutual Fund,41930.73,3257.91,January - March 2026,April 2025 - March 2026,2025-Q4,0.01,Emerging,27,7.14,-4.39,2124.57,-0.03,-2,False,,56.23,76.31
 Angel One Mutual Fund,56493.54,4290.11,April - June 2026,April 2026 - March 2027,2026-Q1,0.01,Emerging,27,7.14,34.73,186.76,0.17,0,False,,55.91,75.73
+Angel One Mutual Fund,62119.86,4587.9,July - September 2026,April 2026 - March 2027,2026-Q2,0.01,Emerging,26,19.35,9.96,72.27,0.03,1,False,,55.44,75.03
 Axis Mutual Fund,29196674.8,101028.09,April - June 2024,April 2024 - March 2025,2024-Q1,4.95,Large,8,12.5,,,,,False,,56.13,77.88
 Axis Mutual Fund,31233845.82,104878.28,July - September 2024,April 2024 - March 2025,2024-Q2,4.72,Large,8,12.5,6.98,,-23.51,0,False,,56.14,77.47
 Axis Mutual Fund,32609752.89,118064.69,October - December 2024,April 2024 - March 2025,2024-Q3,4.75,Large,8,12.5,4.41,,3.6,0,False,,55.88,77.0
@@ -35,6 +41,7 @@ Axis Mutual Fund,35123788.85,312443.32,July - September 2025,April 2025 - March 
 Axis Mutual Fund,36057485.95,517435.56,October - December 2025,April 2025 - March 2026,2025-Q3,4.45,Large,8,12.5,2.66,10.57,-10.21,0,False,,55.85,76.16
 Axis Mutual Fund,35960124.78,829925.24,January - March 2026,April 2025 - March 2026,2025-Q4,4.41,Large,8,12.5,-0.27,11.85,-4.09,0,False,,56.23,76.31
 Axis Mutual Fund,36903011.92,841496.8,April - June 2026,April 2026 - March 2027,2026-Q1,4.44,Large,8,12.5,2.62,9.96,2.83,0,False,,55.91,75.73
+Axis Mutual Fund,38296601.46,858767.01,July - September 2026,April 2026 - March 2027,2026-Q2,4.39,Large,8,12.5,3.78,9.03,-4.75,0,False,,55.44,75.03
 Bajaj Finserv Mutual Fund,1113641.14,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.19,Emerging,4,85.71,,,,,False,,56.13,77.88
 Bajaj Finserv Mutual Fund,1559267.47,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.24,Emerging,4,85.71,40.02,,4.66,0,False,,56.14,77.47
 Bajaj Finserv Mutual Fund,1845632.16,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.27,Emerging,4,85.71,18.37,,3.35,0,False,,55.88,77.0
@@ -44,6 +51,7 @@ Bajaj Finserv Mutual Fund,2922598.64,0.0,July - September 2025,April 2025 - Marc
 Bajaj Finserv Mutual Fund,3211574.77,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.4,Emerging,2,96.43,9.89,74.01,1.76,0,False,,55.85,76.16
 Bajaj Finserv Mutual Fund,3062656.74,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.38,Emerging,3,92.86,-4.64,52.12,-2.08,-1,False,,56.23,76.31
 Bajaj Finserv Mutual Fund,3302731.8,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.4,Emerging,3,92.86,7.84,36.99,2.16,0,False,,55.91,75.73
+Bajaj Finserv Mutual Fund,3784186.13,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.43,Emerging,2,96.77,14.58,29.48,3.66,1,False,,55.44,75.03
 Bandhan Mutual Fund,14480458.78,16041.06,April - June 2024,April 2024 - March 2025,2024-Q1,2.46,Mid-sized,4,80.0,,,,,False,,56.13,77.88
 Bandhan Mutual Fund,15685322.65,17017.84,July - September 2024,April 2024 - March 2025,2024-Q2,2.37,Mid-sized,4,80.0,8.32,,-8.72,0,False,,56.14,77.47
 Bandhan Mutual Fund,16848058.39,16041.23,October - December 2024,April 2024 - March 2025,2024-Q3,2.46,Mid-sized,4,80.0,7.41,,8.68,0,False,,55.88,77.0
@@ -53,6 +61,7 @@ Bandhan Mutual Fund,18637760.06,133851.23,July - September 2025,April 2025 - Mar
 Bandhan Mutual Fund,19782386.51,189764.06,October - December 2025,April 2025 - March 2026,2025-Q3,2.44,Mid-sized,4,80.0,6.14,17.42,2.6,0,False,,55.85,76.16
 Bandhan Mutual Fund,19532508.97,196171.37,January - March 2026,April 2025 - March 2026,2025-Q4,2.4,Mid-sized,4,80.0,-1.26,16.84,-4.65,0,False,,56.23,76.31
 Bandhan Mutual Fund,20404604.97,196260.9,April - June 2026,April 2026 - March 2027,2026-Q1,2.45,Mid-sized,4,80.0,4.46,15.36,5.86,0,False,,55.91,75.73
+Bandhan Mutual Fund,21774866.37,214725.0,July - September 2026,April 2026 - March 2027,2026-Q2,2.5,Mid-sized,4,81.25,6.72,16.83,4.25,0,False,,55.44,75.03
 Bank of India Mutual Fund,795028.52,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.13,Emerging,7,71.43,,,,,False,,56.13,77.88
 Bank of India Mutual Fund,1033572.97,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.16,Emerging,8,66.67,30.0,,2.12,-1,False,,56.14,77.47
 Bank of India Mutual Fund,1150332.71,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.17,Emerging,8,66.67,11.3,,1.16,0,False,,55.88,77.0
@@ -62,6 +71,7 @@ Bank of India Mutual Fund,1342849.9,0.0,July - September 2025,April 2025 - March
 Bank of India Mutual Fund,1387105.96,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.17,Emerging,7,78.57,3.3,20.58,-0.28,0,False,,55.85,76.16
 Bank of India Mutual Fund,1417087.27,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.17,Emerging,7,78.57,2.16,23.03,0.26,0,False,,56.23,76.31
 Bank of India Mutual Fund,1544585.47,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.19,Emerging,7,78.57,9.0,23.99,1.2,0,False,,55.91,75.73
+Bank of India Mutual Fund,1797765.75,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.21,Emerging,6,83.87,16.39,33.88,2.04,1,False,,55.44,75.03
 Baroda BNP Paribas Mutual Fund,3850222.64,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.65,Mid-sized,14,13.33,,,,,False,,56.13,77.88
 Baroda BNP Paribas Mutual Fund,4517419.41,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.68,Mid-sized,14,13.33,17.33,,2.92,0,False,,56.14,77.47
 Baroda BNP Paribas Mutual Fund,4679090.1,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.68,Mid-sized,14,13.33,3.58,,-0.02,0,False,,55.88,77.0
@@ -71,6 +81,7 @@ Baroda BNP Paribas Mutual Fund,5050075.59,25246.72,July - September 2025,April 2
 Baroda BNP Paribas Mutual Fund,5314357.97,33653.85,October - December 2025,April 2025 - March 2026,2025-Q3,0.66,Mid-sized,14,13.33,5.23,13.58,0.14,0,False,,55.85,76.16
 Baroda BNP Paribas Mutual Fund,5460795.4,39894.38,January - March 2026,April 2025 - March 2026,2025-Q4,0.67,Mid-sized,14,13.33,2.76,19.91,1.37,0,False,,56.23,76.31
 Baroda BNP Paribas Mutual Fund,5314857.89,39727.35,April - June 2026,April 2026 - March 2027,2026-Q1,0.64,Mid-sized,14,13.33,-2.67,9.91,-3.05,0,False,,55.91,75.73
+Baroda BNP Paribas Mutual Fund,5464553.36,38266.84,July - September 2026,April 2026 - March 2027,2026-Q2,0.63,Mid-sized,14,18.75,2.82,8.21,-1.27,0,False,,55.44,75.03
 Canara Robeco Mutual Fund,9468468.68,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,1.61,Mid-sized,8,53.33,,,,,False,,56.13,77.88
 Canara Robeco Mutual Fund,10684015.92,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,1.61,Mid-sized,8,53.33,12.84,,0.76,0,False,,56.14,77.47
 Canara Robeco Mutual Fund,10836626.98,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,1.58,Mid-sized,8,53.33,1.43,,-3.4,0,False,,55.88,77.0
@@ -80,13 +91,16 @@ Canara Robeco Mutual Fund,11972686.35,0.0,July - September 2025,April 2025 - Mar
 Canara Robeco Mutual Fund,12225362.95,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,1.51,Mid-sized,11,33.33,2.11,12.82,-4.29,0,False,,55.85,76.16
 Canara Robeco Mutual Fund,11748293.85,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,1.44,Mid-sized,11,33.33,-3.9,13.68,-6.83,0,False,,56.23,76.31
 Canara Robeco Mutual Fund,11872752.79,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,1.43,Mid-sized,11,33.33,1.06,6.91,-1.28,0,False,,55.91,75.73
+Canara Robeco Mutual Fund,12440413.58,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,1.43,Mid-sized,11,37.5,4.78,3.91,-0.16,0,False,,55.44,75.03
 Capitalmind Mutual Fund,6919.04,0.0,July - September 2025,April 2025 - March 2026,2025-Q2,0.0,Emerging,25,4.0,,,,,False,,55.85,76.37
 Capitalmind Mutual Fund,23333.2,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.0,Emerging,26,10.71,237.23,,0.2,-1,False,,55.85,76.16
 Capitalmind Mutual Fund,47211.4,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.01,Emerging,26,10.71,102.34,,0.29,0,False,,56.23,76.31
 Capitalmind Mutual Fund,56913.99,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.01,Emerging,26,10.71,20.55,,0.11,0,False,,55.91,75.73
+Capitalmind Mutual Fund,63026.46,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.01,Emerging,25,22.58,10.74,810.91,0.04,1,False,,55.44,75.03
 Choice Mutual Fund,3924.37,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.0,Emerging,28,3.57,,,,,False,,55.85,76.16
 Choice Mutual Fund,6943.49,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.0,Emerging,28,3.57,76.93,,0.04,0,False,,56.23,76.31
 Choice Mutual Fund,8255.7,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.0,Emerging,28,3.57,18.9,,0.01,0,False,,55.91,75.73
+Choice Mutual Fund,26118.55,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.0,Emerging,27,16.13,216.37,,0.2,1,False,,55.44,75.03
 DSP Mutual Fund,15635873.5,8842.6,April - June 2024,April 2024 - March 2025,2024-Q1,2.65,Mid-sized,2,93.33,,,,,False,,56.13,77.88
 DSP Mutual Fund,18243163.66,9581.81,July - September 2024,April 2024 - March 2025,2024-Q2,2.75,Mid-sized,2,93.33,16.68,,10.31,0,False,,56.14,77.47
 DSP Mutual Fund,19268989.18,9781.97,October - December 2024,April 2024 - March 2025,2024-Q3,2.81,Mid-sized,2,93.33,5.62,,5.34,0,False,,55.88,77.0
@@ -96,6 +110,7 @@ DSP Mutual Fund,21109674.76,186340.23,July - September 2025,April 2025 - March 2
 DSP Mutual Fund,22199562.54,267331.98,October - December 2025,April 2025 - March 2026,2025-Q3,2.74,Mid-sized,3,86.67,5.16,15.21,0.39,-1,False,,55.85,76.16
 DSP Mutual Fund,22539962.94,322270.95,January - March 2026,April 2025 - March 2026,2025-Q4,2.76,Mid-sized,2,93.33,1.53,20.33,2.39,1,False,,56.23,76.31
 DSP Mutual Fund,22980159.81,349467.04,April - June 2026,April 2026 - March 2027,2026-Q1,2.76,Mid-sized,1,100.0,1.95,16.33,-0.04,1,False,,55.91,75.73
+DSP Mutual Fund,24402214.6,367394.07,July - September 2026,April 2026 - March 2027,2026-Q2,2.8,Mid-sized,1,100.0,6.19,15.6,3.39,0,False,,55.44,75.03
 Edelweiss Mutual Fund,13188859.67,2288357.71,April - June 2024,April 2024 - March 2025,2024-Q1,2.24,Mid-sized,5,73.33,,,,,False,,56.13,77.88
 Edelweiss Mutual Fund,14179002.79,2289850.94,July - September 2024,April 2024 - March 2025,2024-Q2,2.14,Mid-sized,5,73.33,7.51,,-9.56,0,False,,56.14,77.47
 Edelweiss Mutual Fund,14274328.27,2277255.05,October - December 2024,April 2024 - March 2025,2024-Q3,2.08,Mid-sized,5,73.33,0.67,,-6.08,0,False,,55.88,77.0
@@ -105,6 +120,7 @@ Edelweiss Mutual Fund,15658619.65,2209172.84,July - September 2025,April 2025 - 
 Edelweiss Mutual Fund,16414942.26,2288420.08,October - December 2025,April 2025 - March 2026,2025-Q3,2.03,Mid-sized,5,73.33,4.83,15.0,-0.35,0,False,,55.85,76.16
 Edelweiss Mutual Fund,16567020.68,2403721.41,January - March 2026,April 2025 - March 2026,2025-Q4,2.03,Mid-sized,5,73.33,0.93,15.99,0.55,0,False,,56.23,76.31
 Edelweiss Mutual Fund,17095115.28,2414085.28,April - June 2026,April 2026 - March 2027,2026-Q1,2.06,Mid-sized,5,73.33,3.19,15.38,2.43,0,False,,55.91,75.73
+Edelweiss Mutual Fund,17709870.45,2388208.84,July - September 2026,April 2026 - March 2027,2026-Q2,2.03,Mid-sized,5,75.0,3.6,13.1,-2.56,0,False,,55.44,75.03
 Franklin Templeton Mutual Fund,9533885.08,136150.78,April - June 2024,April 2024 - March 2025,2024-Q1,1.62,Mid-sized,7,60.0,,,,,False,,56.13,77.88
 Franklin Templeton Mutual Fund,11033564.2,138700.24,July - September 2024,April 2024 - March 2025,2024-Q2,1.67,Mid-sized,7,60.0,15.73,,4.92,0,False,,56.14,77.47
 Franklin Templeton Mutual Fund,11263803.99,137724.0,October - December 2024,April 2024 - March 2025,2024-Q3,1.64,Mid-sized,7,60.0,2.09,,-2.46,0,False,,55.88,77.0
@@ -114,6 +130,7 @@ Franklin Templeton Mutual Fund,12220985.47,137129.19,July - September 2025,April
 Franklin Templeton Mutual Fund,12671508.21,139823.56,October - December 2025,April 2025 - March 2026,2025-Q3,1.56,Mid-sized,10,40.0,3.69,12.5,-2.0,-1,False,,55.85,76.16
 Franklin Templeton Mutual Fund,12357420.77,138166.29,January - March 2026,April 2025 - March 2026,2025-Q4,1.52,Mid-sized,10,40.0,-2.48,15.6,-4.87,0,False,,56.23,76.31
 Franklin Templeton Mutual Fund,12601740.59,136442.23,April - June 2026,April 2026 - March 2027,2026-Q1,1.52,Mid-sized,10,40.0,1.98,10.28,0.01,0,False,,55.91,75.73
+Franklin Templeton Mutual Fund,13277554.84,137975.37,July - September 2026,April 2026 - March 2027,2026-Q2,1.52,Mid-sized,10,43.75,5.36,8.65,0.67,0,False,,55.44,75.03
 Groww Mutual Fund,78807.84,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.01,Emerging,19,14.29,,,,,False,,56.13,77.88
 Groww Mutual Fund,104713.14,4425.36,July - September 2024,April 2024 - March 2025,2024-Q2,0.02,Emerging,18,19.05,32.87,,0.24,1,False,,56.14,77.47
 Groww Mutual Fund,153830.48,13991.82,October - December 2024,April 2024 - March 2025,2024-Q3,0.02,Emerging,17,23.81,46.91,,0.66,1,False,,55.88,77.0
@@ -123,6 +140,7 @@ Groww Mutual Fund,253548.86,30758.4,July - September 2025,April 2025 - March 202
 Groww Mutual Fund,334752.41,39369.41,October - December 2025,April 2025 - March 2026,2025-Q3,0.04,Emerging,16,46.43,32.03,117.61,0.85,2,False,,55.85,76.16
 Groww Mutual Fund,418124.95,57251.58,January - March 2026,April 2025 - March 2026,2025-Q4,0.05,Emerging,16,46.43,24.91,170.26,1.0,0,False,,56.23,76.31
 Groww Mutual Fund,510638.28,67174.03,April - June 2026,April 2026 - March 2027,2026-Q1,0.06,Emerging,16,46.43,22.13,163.69,1.01,0,False,,55.91,75.73
+Groww Mutual Fund,657131.33,75847.4,July - September 2026,April 2026 - March 2027,2026-Q2,0.08,Emerging,16,51.61,28.69,159.17,1.39,0,False,,55.44,75.03
 HDFC Mutual Fund,67158276.44,521525.88,April - June 2024,April 2024 - March 2025,2024-Q1,11.39,Large,3,75.0,,,,,False,,56.13,77.88
 HDFC Mutual Fund,75879795.18,559885.82,July - September 2024,April 2024 - March 2025,2024-Q2,11.46,Large,3,75.0,12.99,,6.87,0,False,,56.14,77.47
 HDFC Mutual Fund,78743359.08,628065.93,October - December 2024,April 2024 - March 2025,2024-Q3,11.48,Large,3,75.0,3.77,,1.76,0,False,,55.88,77.0
@@ -132,6 +150,7 @@ HDFC Mutual Fund,88142880.7,1159894.82,July - September 2025,April 2025 - March 
 HDFC Mutual Fund,92485355.32,1834358.55,October - December 2025,April 2025 - March 2026,2025-Q3,11.42,Large,3,75.0,4.93,17.45,-0.94,0,False,,55.85,76.16
 HDFC Mutual Fund,92745126.84,2541540.46,January - March 2026,April 2025 - March 2026,2025-Q4,11.37,Large,3,75.0,0.28,19.83,-4.24,0,False,,56.23,76.31
 HDFC Mutual Fund,93510038.04,2685906.69,April - June 2026,April 2026 - March 2027,2026-Q1,11.25,Large,3,75.0,0.82,12.85,-12.76,0,False,,55.91,75.73
+HDFC Mutual Fund,96907595.42,2787836.11,July - September 2026,April 2026 - March 2027,2026-Q2,11.11,Large,3,75.0,3.63,9.94,-13.58,0,False,,55.44,75.03
 HSBC Mutual Fund,11686582.01,12557.19,April - June 2024,April 2024 - March 2025,2024-Q1,1.98,Mid-sized,6,66.67,,,,,False,,56.13,77.88
 HSBC Mutual Fund,12723567.23,12888.92,July - September 2024,April 2024 - March 2025,2024-Q2,1.92,Mid-sized,6,66.67,8.87,,-6.06,0,False,,56.14,77.47
 HSBC Mutual Fund,13086742.75,12373.31,October - December 2024,April 2024 - March 2025,2024-Q3,1.91,Mid-sized,6,66.67,2.85,,-1.41,0,False,,55.88,77.0
@@ -141,6 +160,7 @@ HSBC Mutual Fund,13570588.39,69897.12,July - September 2025,April 2025 - March 2
 HSBC Mutual Fund,13883800.02,79518.8,October - December 2025,April 2025 - March 2026,2025-Q3,1.71,Mid-sized,8,53.33,2.31,6.09,-4.53,-2,False,,55.85,76.16
 HSBC Mutual Fund,13605785.41,73035.92,January - March 2026,April 2025 - March 2026,2025-Q4,1.67,Mid-sized,8,53.33,-2.0,9.37,-4.52,0,False,,56.23,76.31
 HSBC Mutual Fund,14300723.1,106069.67,April - June 2026,April 2026 - March 2027,2026-Q1,1.72,Mid-sized,8,53.33,5.11,10.33,5.14,0,False,,55.91,75.73
+HSBC Mutual Fund,15699518.11,106933.11,July - September 2026,April 2026 - March 2027,2026-Q2,1.8,Mid-sized,9,50.0,9.78,15.69,8.0,-1,False,,55.44,75.03
 Helios Mutual Fund,162654.34,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.03,Emerging,14,38.1,,,,,False,,56.13,77.88
 Helios Mutual Fund,228891.14,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.03,Emerging,15,33.33,40.72,,0.7,-1,False,,56.14,77.47
 Helios Mutual Fund,293628.98,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.04,Emerging,13,42.86,28.28,,0.82,2,False,,55.88,77.0
@@ -150,6 +170,7 @@ Helios Mutual Fund,520890.88,0.0,July - September 2025,April 2025 - March 2026,2
 Helios Mutual Fund,740508.38,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.09,Emerging,13,57.14,42.16,152.19,2.39,1,False,,55.85,76.16
 Helios Mutual Fund,940054.39,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.12,Emerging,12,60.71,26.95,174.75,2.39,1,False,,56.23,76.31
 Helios Mutual Fund,1110325.82,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.13,Emerging,12,60.71,18.11,168.78,1.83,0,False,,55.91,75.73
+Helios Mutual Fund,1446611.89,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.17,Emerging,8,77.42,30.29,177.72,3.23,4,False,,55.44,75.03
 ICICI Prudential Mutual Fund,74739564.63,3004014.77,April - June 2024,April 2024 - March 2025,2024-Q1,12.68,Large,2,87.5,,,,,False,,56.13,77.88
 ICICI Prudential Mutual Fund,84122725.71,3211493.39,July - September 2024,April 2024 - March 2025,2024-Q2,12.7,Large,2,87.5,12.55,,2.77,0,False,,56.14,77.47
 ICICI Prudential Mutual Fund,87395751.29,3432458.68,October - December 2024,April 2024 - March 2025,2024-Q3,12.74,Large,2,87.5,3.89,,3.38,0,False,,55.88,77.0
@@ -159,6 +180,7 @@ ICICI Prudential Mutual Fund,101475811.28,4598872.52,July - September 2025,April
 ICICI Prudential Mutual Fund,107637993.04,5395298.32,October - December 2025,April 2025 - March 2026,2025-Q3,13.29,Large,2,87.5,6.07,23.16,13.27,0,False,,55.85,76.16
 ICICI Prudential Mutual Fund,110375131.82,6040868.01,January - March 2026,April 2025 - March 2026,2025-Q4,13.54,Large,2,87.5,2.54,25.51,24.93,0,False,,56.23,76.31
 ICICI Prudential Mutual Fund,111454413.14,6167352.22,April - June 2026,April 2026 - March 2027,2026-Q1,13.4,Large,2,87.5,0.98,18.04,-13.15,0,False,,55.91,75.73
+ICICI Prudential Mutual Fund,115587056.25,6461006.46,July - September 2026,April 2026 - March 2027,2026-Q2,13.25,Large,2,87.5,3.71,13.91,-15.23,0,False,,55.44,75.03
 IL&FS Mutual Fund (IDF),103958.91,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.02,Emerging,17,23.81,,,,,False,,56.13,77.88
 IL&FS Mutual Fund (IDF),106204.41,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.02,Emerging,17,23.81,2.16,,-0.16,0,False,,56.14,77.47
 IL&FS Mutual Fund (IDF),108359.89,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.02,Emerging,18,19.05,2.03,,-0.02,-1,False,,55.88,77.0
@@ -168,6 +190,7 @@ IL&FS Mutual Fund (IDF),87788.25,0.0,July - September 2025,April 2025 - March 20
 IL&FS Mutual Fund (IDF),89605.42,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.01,Emerging,24,17.86,2.07,-17.31,-0.03,-1,False,,55.85,76.16
 IL&FS Mutual Fund (IDF),91124.54,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.01,Emerging,25,14.29,1.7,-17.38,0.01,-1,False,,56.23,76.31
 IL&FS Mutual Fund (IDF),93171.52,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.01,Emerging,25,14.29,2.25,8.31,0.0,0,False,,55.91,75.73
+IL&FS Mutual Fund (IDF),95001.4,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.01,Emerging,24,25.81,1.96,8.22,-0.03,1,False,,55.44,75.03
 ITI Mutual Fund,740609.76,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.13,Emerging,9,61.9,,,,,False,,56.13,77.88
 ITI Mutual Fund,894482.26,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.14,Emerging,9,61.9,20.78,,0.95,0,False,,56.14,77.47
 ITI Mutual Fund,985889.02,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.14,Emerging,9,61.9,10.22,,0.86,0,False,,55.88,77.0
@@ -177,6 +200,7 @@ ITI Mutual Fund,1071537.88,0.0,July - September 2025,April 2025 - March 2026,202
 ITI Mutual Fund,1116699.15,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.14,Emerging,10,67.86,4.21,13.27,-0.11,0,False,,55.85,76.16
 ITI Mutual Fund,1082514.41,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.13,Emerging,11,64.29,-3.06,16.49,-0.51,-1,False,,56.23,76.31
 ITI Mutual Fund,1130229.13,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.14,Emerging,11,64.29,4.41,13.71,0.32,0,False,,55.91,75.73
+ITI Mutual Fund,1246867.46,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.14,Emerging,11,67.74,10.32,16.36,0.7,0,False,,55.44,75.03
 Invesco Mutual Fund,8356227.08,7431.75,April - June 2024,April 2024 - March 2025,2024-Q1,1.42,Mid-sized,9,46.67,,,,,False,,56.13,77.88
 Invesco Mutual Fund,9658589.88,7717.31,July - September 2024,April 2024 - March 2025,2024-Q2,1.46,Mid-sized,10,40.0,15.59,,4.13,-1,False,,56.14,77.47
 Invesco Mutual Fund,10826753.32,9654.42,October - December 2024,April 2024 - March 2025,2024-Q3,1.58,Mid-sized,9,46.67,12.09,,11.94,1,False,,55.88,77.0
@@ -186,6 +210,7 @@ Invesco Mutual Fund,12823790.4,45502.43,July - September 2025,April 2025 - March
 Invesco Mutual Fund,13970438.06,58937.02,October - December 2025,April 2025 - March 2026,2025-Q3,1.72,Mid-sized,7,60.0,8.94,29.04,6.22,1,False,,55.85,76.16
 Invesco Mutual Fund,14064777.08,69595.12,January - March 2026,April 2025 - March 2026,2025-Q4,1.72,Mid-sized,7,60.0,0.68,31.96,0.04,0,False,,56.23,76.31
 Invesco Mutual Fund,14600870.1,70925.4,April - June 2026,April 2026 - March 2027,2026-Q1,1.76,Mid-sized,7,60.0,3.81,25.37,3.12,0,False,,55.91,75.73
+Invesco Mutual Fund,16468657.27,68829.06,July - September 2026,April 2026 - March 2027,2026-Q2,1.89,Mid-sized,7,62.5,12.79,28.42,13.21,0,False,,55.44,75.03
 JM Financial Mutual Fund,779919.62,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.13,Emerging,8,66.67,,,,,False,,56.13,77.88
 JM Financial Mutual Fund,1144532.84,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.17,Emerging,7,71.43,46.75,,4.06,1,False,,56.14,77.47
 JM Financial Mutual Fund,1357368.06,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.2,Emerging,6,76.19,18.6,,2.5,1,False,,55.88,77.0
@@ -195,10 +220,12 @@ JM Financial Mutual Fund,1490183.07,0.0,July - September 2025,April 2025 - March
 JM Financial Mutual Fund,1434444.17,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.18,Emerging,6,82.14,-3.74,5.68,-1.61,0,False,,55.85,76.16
 JM Financial Mutual Fund,1321924.26,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.16,Emerging,9,71.43,-7.84,-4.42,-1.5,-3,False,,56.23,76.31
 JM Financial Mutual Fund,1320458.87,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.16,Emerging,9,71.43,-0.11,-5.47,-0.33,0,False,,55.91,75.73
+JM Financial Mutual Fund,1349972.53,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.15,Emerging,9,74.19,2.24,-9.41,-0.4,0,False,,55.44,75.03
 Jio BlackRock Mutual Fund,1289027.71,0.0,July - September 2025,April 2025 - March 2026,2025-Q2,0.17,Emerging,9,68.0,,,,,False,,55.85,76.37
 Jio BlackRock Mutual Fund,1375746.11,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.17,Emerging,8,75.0,6.73,,0.27,1,False,,55.85,76.16
 Jio BlackRock Mutual Fund,1671152.27,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.2,Emerging,6,82.14,21.47,,3.51,2,False,,56.23,76.31
 Jio BlackRock Mutual Fund,1797890.25,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.22,Emerging,6,82.14,7.58,,1.13,0,False,,55.91,75.73
+Jio BlackRock Mutual Fund,2246740.24,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.26,Emerging,5,87.1,24.97,74.3,4.14,1,False,,55.44,75.03
 Kotak Mahindra Mutual Fund,41850672.37,334087.62,April - June 2024,April 2024 - March 2025,2024-Q1,7.1,Large,5,50.0,,,,,False,,56.13,77.88
 Kotak Mahindra Mutual Fund,47017833.61,356854.52,July - September 2024,April 2024 - March 2025,2024-Q2,7.1,Large,5,50.0,12.35,,0.24,0,False,,56.14,77.47
 Kotak Mahindra Mutual Fund,48874493.33,397456.08,October - December 2024,April 2024 - March 2025,2024-Q3,7.12,Large,5,50.0,3.95,,2.29,0,False,,55.88,77.0
@@ -208,6 +235,7 @@ Kotak Mahindra Mutual Fund,55595213.92,1102967.61,July - September 2025,April 20
 Kotak Mahindra Mutual Fund,57330721.33,1489140.28,October - December 2025,April 2025 - March 2026,2025-Q3,7.08,Large,5,50.0,3.12,17.3,-12.98,0,False,,55.85,76.16
 Kotak Mahindra Mutual Fund,58095023.98,1833246.76,January - March 2026,April 2025 - March 2026,2025-Q4,7.12,Large,5,50.0,1.33,20.39,4.77,0,False,,56.23,76.31
 Kotak Mahindra Mutual Fund,59045999.53,1910111.98,April - June 2026,April 2026 - March 2027,2026-Q1,7.1,Large,5,50.0,1.64,13.69,-2.32,0,False,,55.91,75.73
+Kotak Mahindra Mutual Fund,61411571.36,1988422.18,July - September 2026,April 2026 - March 2027,2026-Q2,7.04,Large,5,50.0,4.01,10.46,-6.05,0,False,,55.44,75.03
 LIC Mutual Fund,3176067.38,5356.08,April - June 2024,April 2024 - March 2025,2024-Q1,0.54,Mid-sized,15,6.67,,,,,False,,56.13,77.88
 LIC Mutual Fund,3372481.18,5729.11,July - September 2024,April 2024 - March 2025,2024-Q2,0.51,Mid-sized,15,6.67,6.18,,-2.94,0,False,,56.14,77.47
 LIC Mutual Fund,3531141.21,6902.83,October - December 2024,April 2024 - March 2025,2024-Q3,0.51,Mid-sized,15,6.67,4.7,,0.54,0,False,,55.88,77.0
@@ -217,6 +245,8 @@ LIC Mutual Fund,4148981.83,25181.66,July - September 2025,April 2025 - March 202
 LIC Mutual Fund,4438308.18,51134.14,October - December 2025,April 2025 - March 2026,2025-Q3,0.55,Mid-sized,15,6.67,6.97,25.69,1.0,0,False,,55.85,76.16
 LIC Mutual Fund,4646119.24,74590.19,January - March 2026,April 2025 - March 2026,2025-Q4,0.57,Mid-sized,15,6.67,4.68,27.37,2.19,0,False,,56.23,76.31
 LIC Mutual Fund,4953492.12,79427.83,April - June 2026,April 2026 - March 2027,2026-Q1,0.6,Mid-sized,15,6.67,6.62,27.95,2.6,0,False,,55.91,75.73
+LIC Mutual Fund,5003501.76,82457.2,July - September 2026,April 2026 - March 2027,2026-Q2,0.57,Mid-sized,15,12.5,1.01,20.6,-2.21,0,False,,55.44,75.03
+Lakshya Mutual Fund,240.51,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.0,Emerging,31,3.23,,,,,False,,55.44,75.03
 Mahindra Manulife Mutual Fund,2256480.96,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.38,Emerging,2,95.24,,,,,False,,56.13,77.88
 Mahindra Manulife Mutual Fund,2815034.18,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.43,Emerging,1,100.0,24.75,,4.24,1,False,,56.14,77.47
 Mahindra Manulife Mutual Fund,2905005.93,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.42,Emerging,1,100.0,3.2,,-0.17,0,False,,55.88,77.0
@@ -226,6 +256,7 @@ Mahindra Manulife Mutual Fund,3167267.65,0.0,July - September 2025,April 2025 - 
 Mahindra Manulife Mutual Fund,3291918.23,1074.37,October - December 2025,April 2025 - March 2026,2025-Q3,0.41,Emerging,1,100.0,3.94,13.32,-0.42,0,False,,55.85,76.16
 Mahindra Manulife Mutual Fund,3312668.06,2639.95,January - March 2026,April 2025 - March 2026,2025-Q4,0.41,Emerging,1,100.0,0.63,21.54,-0.01,0,False,,56.23,76.31
 Mahindra Manulife Mutual Fund,3478637.06,1887.22,April - June 2026,April 2026 - March 2027,2026-Q1,0.42,Emerging,2,96.43,5.01,17.56,1.21,-1,False,,55.91,75.73
+Mahindra Manulife Mutual Fund,3814006.8,1437.26,July - September 2026,April 2026 - March 2027,2026-Q2,0.44,Emerging,1,100.0,9.64,20.42,1.89,1,False,,55.44,75.03
 Mirae Asset Mutual Fund,17138175.8,324042.53,April - June 2024,April 2024 - March 2025,2024-Q1,2.91,Mid-sized,1,100.0,,,,,False,,56.13,77.88
 Mirae Asset Mutual Fund,19150512.05,364319.65,July - September 2024,April 2024 - March 2025,2024-Q2,2.89,Mid-sized,1,100.0,11.74,,-1.47,0,False,,56.14,77.47
 Mirae Asset Mutual Fund,19427606.58,406235.9,October - December 2024,April 2024 - March 2025,2024-Q3,2.83,Mid-sized,1,100.0,1.45,,-6.05,0,False,,55.88,77.0
@@ -235,6 +266,8 @@ Mirae Asset Mutual Fund,21040999.47,502354.35,July - September 2025,April 2025 -
 Mirae Asset Mutual Fund,22368885.41,587659.15,October - December 2025,April 2025 - March 2026,2025-Q3,2.76,Mid-sized,2,93.33,6.31,15.14,3.37,1,False,,55.85,76.16
 Mirae Asset Mutual Fund,22135455.91,652898.29,January - March 2026,April 2025 - March 2026,2025-Q4,2.71,Mid-sized,3,86.67,-1.04,18.84,-4.66,-1,False,,56.23,76.31
 Mirae Asset Mutual Fund,22495241.65,727909.1,April - June 2026,April 2026 - March 2027,2026-Q1,2.71,Mid-sized,3,86.67,1.63,13.42,-0.91,0,False,,55.91,75.73
+Mirae Asset Mutual Fund,23742084.61,794281.31,July - September 2026,April 2026 - March 2027,2026-Q2,2.72,Mid-sized,2,93.75,5.54,12.84,1.66,1,False,,55.44,75.03
+Monarch Mutual Fund,2643.91,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.0,Emerging,30,6.45,,,,,False,,55.44,75.03
 Motilal Oswal Mutual Fund,5369154.76,494974.47,April - June 2024,April 2024 - March 2025,2024-Q1,0.91,Mid-sized,13,20.0,,,,,False,,56.13,77.88
 Motilal Oswal Mutual Fund,7049501.92,516725.45,July - September 2024,April 2024 - March 2025,2024-Q2,1.06,Mid-sized,12,26.67,31.3,,15.39,1,False,,56.14,77.47
 Motilal Oswal Mutual Fund,8666388.82,584776.3,October - December 2024,April 2024 - March 2025,2024-Q3,1.26,Mid-sized,12,26.67,22.94,,19.85,0,False,,55.88,77.0
@@ -244,6 +277,7 @@ Motilal Oswal Mutual Fund,12151559.56,632168.36,July - September 2025,April 2025
 Motilal Oswal Mutual Fund,13403453.3,787563.19,October - December 2025,April 2025 - March 2026,2025-Q3,1.65,Mid-sized,9,46.67,10.3,54.66,7.93,1,False,,55.85,76.16
 Motilal Oswal Mutual Fund,13174194.82,886002.08,January - March 2026,April 2025 - March 2026,2025-Q4,1.62,Mid-sized,9,46.67,-1.71,41.68,-3.89,0,False,,56.23,76.31
 Motilal Oswal Mutual Fund,14252998.46,1095902.04,April - June 2026,April 2026 - March 2027,2026-Q1,1.71,Mid-sized,9,46.67,8.19,36.71,9.86,0,False,,55.91,75.73
+Motilal Oswal Mutual Fund,15885758.15,1141526.39,July - September 2026,April 2026 - March 2027,2026-Q2,1.82,Mid-sized,8,56.25,11.46,30.73,10.71,1,False,,55.44,75.03
 NJ Mutual Fund,589462.17,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.1,Emerging,10,57.14,,,,,False,,56.13,77.88
 NJ Mutual Fund,667803.62,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.1,Emerging,10,57.14,13.29,,0.09,0,False,,56.14,77.47
 NJ Mutual Fund,677376.08,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.1,Emerging,11,52.38,1.43,,-0.21,-1,False,,55.88,77.0
@@ -253,6 +287,7 @@ NJ Mutual Fund,713279.03,0.0,July - September 2025,April 2025 - March 2026,2025-
 NJ Mutual Fund,711689.74,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.09,Emerging,14,53.57,-0.22,5.07,-0.46,-1,False,,55.85,76.16
 NJ Mutual Fund,696517.11,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.09,Emerging,14,53.57,-2.13,8.2,-0.24,0,False,,56.23,76.31
 NJ Mutual Fund,692232.29,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.08,Emerging,14,53.57,-0.62,3.26,-0.22,0,False,,55.91,75.73
+NJ Mutual Fund,737545.86,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.08,Emerging,15,54.84,6.55,3.4,0.13,-1,False,,55.44,75.03
 Navi Mutual Fund,576215.55,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.1,Emerging,11,52.38,,,,,False,,56.13,77.88
 Navi Mutual Fund,661325.16,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.1,Emerging,11,52.38,14.77,,0.21,0,False,,56.14,77.47
 Navi Mutual Fund,699804.96,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.1,Emerging,10,57.14,5.82,,0.21,1,False,,55.88,77.0
@@ -262,6 +297,7 @@ Navi Mutual Fund,845281.61,0.0,July - September 2025,April 2025 - March 2026,202
 Navi Mutual Fund,895867.14,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.11,Emerging,12,60.71,5.98,28.02,0.1,-1,False,,55.85,76.16
 Navi Mutual Fund,900733.45,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.11,Emerging,13,57.14,0.54,26.51,-0.01,-1,False,,56.23,76.31
 Navi Mutual Fund,945311.57,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.11,Emerging,13,57.14,4.95,21.97,0.32,0,False,,55.91,75.73
+Navi Mutual Fund,994414.65,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.11,Emerging,13,61.29,5.19,17.64,0.03,0,False,,55.44,75.03
 Nippon India Mutual Fund,48379136.52,301368.9,April - June 2024,April 2024 - March 2025,2024-Q1,8.2,Large,4,62.5,,,,,False,,56.13,77.88
 Nippon India Mutual Fund,54917369.33,323552.75,July - September 2024,April 2024 - March 2025,2024-Q2,8.29,Large,4,62.5,13.51,,8.81,0,False,,56.14,77.47
 Nippon India Mutual Fund,56995353.49,372015.09,October - December 2024,April 2024 - March 2025,2024-Q3,8.31,Large,4,62.5,3.78,,1.35,0,False,,55.88,77.0
@@ -271,6 +307,7 @@ Nippon India Mutual Fund,65651868.82,716526.8,July - September 2025,April 2025 -
 Nippon India Mutual Fund,70095805.75,1063951.09,October - December 2025,April 2025 - March 2026,2025-Q3,8.65,Large,4,62.5,6.77,22.99,14.23,0,False,,55.85,76.16
 Nippon India Mutual Fund,72496513.92,1506585.46,January - March 2026,April 2025 - March 2026,2025-Q4,8.89,Large,4,62.5,3.42,30.11,23.82,0,False,,56.23,76.31
 Nippon India Mutual Fund,75151871.19,1598770.74,April - June 2026,April 2026 - March 2027,2026-Q1,9.04,Large,4,62.5,3.66,22.65,14.77,0,False,,55.91,75.73
+Nippon India Mutual Fund,78705299.31,1646712.0,July - September 2026,April 2026 - March 2027,2026-Q2,9.02,Large,4,62.5,4.73,19.88,-1.48,0,False,,55.44,75.03
 Old Bridge Mutual Fund,35371.47,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.01,Emerging,21,4.76,,,,,False,,56.13,77.88
 Old Bridge Mutual Fund,64299.58,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.01,Emerging,21,4.76,81.78,,0.37,0,False,,56.14,77.47
 Old Bridge Mutual Fund,97607.55,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.01,Emerging,19,14.29,51.8,,0.45,2,False,,55.88,77.0
@@ -280,6 +317,7 @@ Old Bridge Mutual Fund,195330.3,0.0,July - September 2025,April 2025 - March 202
 Old Bridge Mutual Fund,228010.22,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.03,Emerging,19,35.71,16.73,133.6,0.28,0,False,,55.85,76.16
 Old Bridge Mutual Fund,256609.79,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.03,Emerging,19,35.71,12.54,117.71,0.33,0,False,,56.23,76.31
 Old Bridge Mutual Fund,341883.68,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.04,Emerging,18,39.29,33.23,113.85,0.96,1,False,,55.91,75.73
+Old Bridge Mutual Fund,473622.54,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.05,Emerging,17,48.39,38.53,142.47,1.32,1,False,,55.44,75.03
 PGIM India Mutual Fund,2402852.46,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.41,Emerging,1,100.0,,,,,False,,56.13,77.88
 PGIM India Mutual Fund,2570938.91,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.39,Emerging,2,95.24,7.0,,-1.93,-1,False,,56.14,77.47
 PGIM India Mutual Fund,2584639.08,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.38,Emerging,2,95.24,0.53,,-1.15,0,False,,55.88,77.0
@@ -289,6 +327,7 @@ PGIM India Mutual Fund,2692705.85,0.0,July - September 2025,April 2025 - March 2
 PGIM India Mutual Fund,2754569.28,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.34,Emerging,4,89.29,2.3,6.57,-0.9,-1,False,,55.85,76.16
 PGIM India Mutual Fund,2640118.65,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.32,Emerging,4,89.29,-4.15,9.25,-1.62,0,False,,56.23,76.31
 PGIM India Mutual Fund,2663993.22,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.32,Emerging,5,85.71,0.9,5.66,-0.34,-1,False,,55.91,75.73
+PGIM India Mutual Fund,2785882.43,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.32,Emerging,4,90.32,4.58,3.46,-0.1,1,False,,55.44,75.03
 PPFAS Mutual Fund,7485403.09,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,1.27,Mid-sized,11,33.33,,,,,False,,56.13,77.88
 PPFAS Mutual Fund,8759593.34,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,1.32,Mid-sized,11,33.33,17.02,,5.33,0,False,,56.14,77.47
 PPFAS Mutual Fund,9582976.56,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,1.4,Mid-sized,11,33.33,9.4,,7.39,0,False,,55.88,77.0
@@ -298,6 +337,7 @@ PPFAS Mutual Fund,13218061.79,0.0,July - September 2025,April 2025 - March 2026,
 PPFAS Mutual Fund,14593878.54,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,1.8,Mid-sized,6,66.67,10.41,52.29,8.8,1,False,,55.85,76.16
 PPFAS Mutual Fund,15232816.13,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,1.87,Mid-sized,6,66.67,4.38,49.78,6.66,0,False,,56.23,76.31
 PPFAS Mutual Fund,16080710.11,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,1.93,Mid-sized,6,66.67,5.57,38.45,6.59,0,False,,55.91,75.73
+PPFAS Mutual Fund,16906904.7,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,1.94,Mid-sized,6,68.75,5.14,27.91,0.44,0,False,,55.44,75.03
 Quantum Mutual Fund,236562.64,30842.79,April - June 2024,April 2024 - March 2025,2024-Q1,0.04,Emerging,12,47.62,,,,,False,,56.13,77.88
 Quantum Mutual Fund,250806.82,33222.46,July - September 2024,April 2024 - March 2025,2024-Q2,0.04,Emerging,14,38.1,6.02,,-0.22,-2,False,,56.14,77.47
 Quantum Mutual Fund,254233.14,35251.94,October - December 2024,April 2024 - March 2025,2024-Q3,0.04,Emerging,15,33.33,1.37,,-0.08,-1,False,,55.88,77.0
@@ -307,6 +347,7 @@ Quantum Mutual Fund,289629.22,47280.94,July - September 2025,April 2025 - March 
 Quantum Mutual Fund,310227.02,59353.9,October - December 2025,April 2025 - March 2026,2025-Q3,0.04,Emerging,17,42.86,7.11,22.02,0.08,0,False,,55.85,76.16
 Quantum Mutual Fund,322964.81,71846.17,January - March 2026,April 2025 - March 2026,2025-Q4,0.04,Emerging,17,42.86,4.11,23.9,0.13,0,False,,56.23,76.31
 Quantum Mutual Fund,318513.96,75466.36,April - June 2026,April 2026 - March 2027,2026-Q1,0.04,Emerging,19,35.71,-1.38,15.78,-0.13,-2,False,,55.91,75.73
+Quantum Mutual Fund,332171.7,80231.14,July - September 2026,April 2026 - March 2027,2026-Q2,0.04,Emerging,18,45.16,4.29,14.69,-0.02,1,False,,55.44,75.03
 SBI Mutual Fund,98825596.71,183423.47,April - June 2024,April 2024 - March 2025,2024-Q1,16.76,Large,1,100.0,,,,,False,,56.13,77.88
 SBI Mutual Fund,109864296.94,224320.27,July - September 2024,April 2024 - March 2025,2024-Q2,16.59,Large,1,100.0,11.17,,-17.0,0,False,,56.14,77.47
 SBI Mutual Fund,111395242.25,275522.41,October - December 2024,April 2024 - March 2025,2024-Q3,16.23,Large,1,100.0,1.39,,-35.56,0,False,,55.88,77.0
@@ -316,6 +357,7 @@ SBI Mutual Fund,119953297.96,805240.57,July - September 2025,April 2025 - March 
 SBI Mutual Fund,124878776.76,1495684.94,October - December 2025,April 2025 - March 2026,2025-Q3,15.42,Large,1,100.0,4.11,12.1,-13.43,0,False,,55.85,76.16
 SBI Mutual Fund,124800300.67,2259637.31,January - March 2026,April 2025 - March 2026,2025-Q4,15.31,Large,1,100.0,-0.06,16.32,-10.99,0,False,,56.23,76.31
 SBI Mutual Fund,125735228.88,2402838.72,April - June 2026,April 2026 - March 2027,2026-Q1,15.12,Large,1,100.0,0.75,10.28,-18.3,0,False,,55.91,75.73
+SBI Mutual Fund,130960740.57,2491961.05,July - September 2026,April 2026 - March 2027,2026-Q2,15.02,Large,1,100.0,4.16,9.18,-10.72,0,False,,55.44,75.03
 Samco Mutual Fund,225644.8,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.04,Emerging,13,42.86,,,,,False,,56.13,77.88
 Samco Mutual Fund,254808.79,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.04,Emerging,13,42.86,12.92,,0.02,0,False,,56.14,77.47
 Samco Mutual Fund,275917.81,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.04,Emerging,14,38.1,8.28,,0.17,-1,False,,55.88,77.0
@@ -325,6 +367,7 @@ Samco Mutual Fund,296362.11,0.0,July - September 2025,April 2025 - March 2026,20
 Samco Mutual Fund,274805.95,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.03,Emerging,18,39.29,-7.27,-0.4,-0.45,-2,False,,55.85,76.16
 Samco Mutual Fund,253210.91,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.03,Emerging,20,32.14,-7.86,-10.36,-0.29,-2,False,,56.23,76.31
 Samco Mutual Fund,252212.56,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.03,Emerging,20,32.14,-0.39,-13.74,-0.07,0,False,,55.91,75.73
+Samco Mutual Fund,254603.7,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.03,Emerging,19,41.94,0.95,-14.09,-0.11,1,False,,55.44,75.03
 Shriram Mutual Fund,59373.14,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.01,Emerging,20,9.52,,,,,False,,56.13,77.88
 Shriram Mutual Fund,78224.2,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.01,Emerging,20,9.52,31.75,,0.17,0,False,,56.14,77.47
 Shriram Mutual Fund,93424.1,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.01,Emerging,20,9.52,19.43,,0.18,0,False,,55.88,77.0
@@ -334,6 +377,7 @@ Shriram Mutual Fund,103054.22,0.0,July - September 2025,April 2025 - March 2026,
 Shriram Mutual Fund,109035.8,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.01,Emerging,22,25.0,5.8,16.71,0.01,-1,False,,55.85,76.16
 Shriram Mutual Fund,125548.12,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.02,Emerging,23,21.43,15.14,29.52,0.19,-1,False,,56.23,76.31
 Shriram Mutual Fund,116083.0,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.01,Emerging,23,21.43,-7.54,9.11,-0.14,0,False,,55.91,75.73
+Shriram Mutual Fund,117090.61,78.14,July - September 2026,April 2026 - March 2027,2026-Q2,0.01,Emerging,22,32.26,0.87,13.62,-0.05,1,False,,55.44,75.03
 Sundaram Mutual Fund,6075137.89,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,1.03,Mid-sized,12,26.67,,,,,False,,56.13,77.88
 Sundaram Mutual Fund,6716408.99,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,1.01,Mid-sized,13,20.0,10.56,,-1.61,-1,False,,56.14,77.47
 Sundaram Mutual Fund,6869235.73,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,1.0,Mid-sized,13,20.0,2.28,,-1.31,0,False,,55.88,77.0
@@ -343,6 +387,7 @@ Sundaram Mutual Fund,7400523.03,0.0,July - September 2025,April 2025 - March 202
 Sundaram Mutual Fund,7657040.35,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.95,Mid-sized,13,20.0,3.47,11.47,-1.41,0,False,,55.85,76.16
 Sundaram Mutual Fund,7488296.71,7113.46,January - March 2026,April 2025 - March 2026,2025-Q4,0.92,Mid-sized,13,20.0,-2.2,14.16,-2.68,0,False,,56.23,76.31
 Sundaram Mutual Fund,7692870.63,6674.98,April - June 2026,April 2026 - March 2027,2026-Q1,0.93,Mid-sized,13,20.0,2.73,10.81,0.69,0,False,,55.91,75.73
+Sundaram Mutual Fund,8252207.71,6665.98,July - September 2026,April 2026 - March 2027,2026-Q2,0.95,Mid-sized,13,25.0,7.27,11.51,2.09,0,False,,55.44,75.03
 Tata Mutual Fund,15363427.11,15027.74,April - June 2024,April 2024 - March 2025,2024-Q1,2.61,Mid-sized,3,86.67,,,,,False,,56.13,77.88
 Tata Mutual Fund,17779593.87,20286.73,July - September 2024,April 2024 - March 2025,2024-Q2,2.68,Mid-sized,3,86.67,15.73,,7.93,0,False,,56.14,77.47
 Tata Mutual Fund,18790519.11,28242.82,October - December 2024,April 2024 - March 2025,2024-Q3,2.74,Mid-sized,3,86.67,5.69,,5.37,0,False,,55.88,77.0
@@ -352,6 +397,7 @@ Tata Mutual Fund,21696075.79,97833.1,July - September 2025,April 2025 - March 20
 Tata Mutual Fund,22406990.26,164865.25,October - December 2025,April 2025 - March 2026,2025-Q3,2.77,Mid-sized,1,100.0,3.28,19.25,-4.65,0,False,,55.85,76.16
 Tata Mutual Fund,22751198.37,270766.03,January - March 2026,April 2025 - March 2026,2025-Q4,2.79,Mid-sized,1,100.0,1.54,21.21,2.42,0,False,,56.23,76.31
 Tata Mutual Fund,22853818.25,285012.64,April - June 2026,April 2026 - March 2027,2026-Q1,2.75,Mid-sized,2,93.33,0.45,16.47,-4.15,-1,False,,55.91,75.73
+Tata Mutual Fund,23619887.9,300222.28,July - September 2026,April 2026 - March 2027,2026-Q2,2.71,Mid-sized,3,87.5,3.35,8.87,-4.06,-1,False,,55.44,75.03
 Taurus Mutual Fund,80014.62,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.01,Emerging,18,19.05,,,,,False,,56.13,77.88
 Taurus Mutual Fund,90995.11,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.01,Emerging,19,14.29,13.72,,0.02,-1,False,,56.14,77.47
 Taurus Mutual Fund,92032.79,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.01,Emerging,21,4.76,1.14,,-0.03,-2,False,,55.88,77.0
@@ -361,9 +407,11 @@ Taurus Mutual Fund,97952.57,0.0,July - September 2025,April 2025 - March 2026,20
 Taurus Mutual Fund,100852.91,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.01,Emerging,23,21.43,2.96,9.58,-0.02,-1,False,,55.85,76.16
 Taurus Mutual Fund,97752.66,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.01,Emerging,24,17.86,-3.07,12.08,-0.05,-1,False,,56.23,76.31
 Taurus Mutual Fund,100916.6,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.01,Emerging,24,17.86,3.24,9.61,0.01,0,False,,55.91,75.73
+Taurus Mutual Fund,109682.18,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.01,Emerging,23,29.03,8.69,11.97,0.04,1,False,,55.44,75.03
 The Wealth Company Mutual Fund,142125.48,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.02,Emerging,20,32.14,,,,,False,,55.85,76.16
 The Wealth Company Mutual Fund,140372.15,892.98,January - March 2026,April 2025 - March 2026,2025-Q4,0.02,Emerging,22,25.0,-1.23,,-0.03,-2,False,,56.23,76.31
 The Wealth Company Mutual Fund,129751.01,1397.15,April - June 2026,April 2026 - March 2027,2026-Q1,0.02,Emerging,22,25.0,-7.57,,-0.16,0,False,,55.91,75.73
+The Wealth Company Mutual Fund,184862.56,1575.5,July - September 2026,April 2026 - March 2027,2026-Q2,0.02,Emerging,20,38.71,42.47,,0.56,2,False,,55.44,75.03
 Trust Mutual Fund,140141.96,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.02,Emerging,16,28.57,,,,,False,,56.13,77.88
 Trust Mutual Fund,174620.5,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.03,Emerging,16,28.57,24.6,,0.26,0,False,,56.14,77.47
 Trust Mutual Fund,214359.26,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.03,Emerging,16,28.57,22.76,,0.49,0,False,,55.88,77.0
@@ -373,6 +421,7 @@ Trust Mutual Fund,379371.64,0.0,July - September 2025,April 2025 - March 2026,20
 Trust Mutual Fund,393398.84,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.05,Emerging,15,50.0,3.7,83.52,-0.06,0,False,,55.85,76.16
 Trust Mutual Fund,425295.68,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.05,Emerging,15,50.0,8.11,63.81,0.36,0,False,,56.23,76.31
 Trust Mutual Fund,507493.8,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.06,Emerging,17,42.86,19.33,55.51,0.89,-2,False,,55.91,75.73
+Trust Mutual Fund,744507.61,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.09,Emerging,14,58.06,46.7,96.25,2.43,3,False,,55.44,75.03
 UTI Mutual Fund,31069693.43,12547.33,April - June 2024,April 2024 - March 2025,2024-Q1,5.27,Large,7,25.0,,,,,False,,56.13,77.88
 UTI Mutual Fund,34254853.09,14170.89,July - September 2024,April 2024 - March 2025,2024-Q2,5.17,Large,7,25.0,10.25,,-9.65,0,False,,56.14,77.47
 UTI Mutual Fund,35241162.85,18083.63,October - December 2024,April 2024 - March 2025,2024-Q3,5.14,Large,7,25.0,2.88,,-3.67,0,False,,55.88,77.0
@@ -382,12 +431,14 @@ UTI Mutual Fund,37841328.86,76264.45,July - September 2025,April 2025 - March 20
 UTI Mutual Fund,39380906.54,124969.61,October - December 2025,April 2025 - March 2026,2025-Q3,4.86,Large,7,25.0,4.07,11.75,-4.41,0,False,,55.85,76.16
 UTI Mutual Fund,38846981.42,202503.39,January - March 2026,April 2025 - March 2026,2025-Q4,4.76,Large,7,25.0,-1.36,14.34,-9.71,0,False,,56.23,76.31
 UTI Mutual Fund,39269106.58,215651.61,April - June 2026,April 2026 - March 2027,2026-Q1,4.72,Large,7,25.0,1.09,8.82,-4.12,0,False,,55.91,75.73
+UTI Mutual Fund,40233695.53,224737.67,July - September 2026,April 2026 - March 2027,2026-Q2,4.61,Large,7,25.0,2.46,6.32,-11.0,0,False,,55.44,75.03
 Unifi Mutual Fund,11025.63,0.0,January - March 2025,April 2024 - March 2025,2024-Q4,0.0,Emerging,22,8.7,,,,,False,,55.86,76.89
 Unifi Mutual Fund,71722.15,0.0,April - June 2025,April 2025 - March 2026,2025-Q1,0.01,Emerging,22,8.7,550.5,,0.83,0,False,,56.07,76.81
 Unifi Mutual Fund,119582.37,0.0,July - September 2025,April 2025 - March 2026,2025-Q2,0.02,Emerging,20,24.0,66.73,,0.56,2,False,,55.85,76.37
 Unifi Mutual Fund,131342.15,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.02,Emerging,21,28.57,9.83,,0.07,-1,False,,55.85,76.16
 Unifi Mutual Fund,144032.72,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.02,Emerging,21,28.57,9.66,1206.34,0.15,0,False,,56.23,76.31
 Unifi Mutual Fund,149742.18,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.02,Emerging,21,28.57,3.96,108.78,0.03,0,False,,55.91,75.73
+Unifi Mutual Fund,167639.24,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.02,Emerging,21,35.48,11.95,40.19,0.12,0,False,,55.44,75.03
 Union Mutual Fund,1611145.84,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.27,Emerging,3,90.48,,,,,False,,56.13,77.88
 Union Mutual Fund,1887486.23,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.29,Emerging,3,90.48,17.15,,1.18,0,False,,56.14,77.47
 Union Mutual Fund,2014398.92,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.29,Emerging,3,90.48,6.72,,0.86,0,False,,55.88,77.0
@@ -397,6 +448,7 @@ Union Mutual Fund,2354823.38,25052.6,July - September 2025,April 2025 - March 20
 Union Mutual Fund,2563560.82,43660.98,October - December 2025,April 2025 - March 2026,2025-Q3,0.32,Emerging,5,85.71,8.86,27.26,1.12,0,False,,55.85,76.16
 Union Mutual Fund,2619405.56,43933.19,January - March 2026,April 2025 - March 2026,2025-Q4,0.32,Emerging,5,85.71,2.18,31.28,0.48,0,False,,56.23,76.31
 Union Mutual Fund,2809771.82,41538.99,April - June 2026,April 2026 - March 2027,2026-Q1,0.34,Emerging,4,89.29,7.27,33.16,1.67,1,False,,55.91,75.73
+Union Mutual Fund,2855156.59,42556.14,July - September 2026,April 2026 - March 2027,2026-Q2,0.33,Emerging,3,93.55,1.62,21.25,-1.06,1,False,,55.44,75.03
 WhiteOak Capital Mutual Fund,1068043.51,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.18,Emerging,5,80.95,,,,,False,,56.13,77.88
 WhiteOak Capital Mutual Fund,1316073.8,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.2,Emerging,5,80.95,23.22,,1.76,0,False,,56.14,77.47
 WhiteOak Capital Mutual Fund,1532580.63,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,0.22,Emerging,5,80.95,16.45,,2.46,0,False,,55.88,77.0
@@ -406,6 +458,7 @@ WhiteOak Capital Mutual Fund,2494348.22,0.0,July - September 2025,April 2025 - M
 WhiteOak Capital Mutual Fund,2979827.12,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,0.37,Emerging,3,92.86,19.46,94.43,4.45,1,False,,55.85,76.16
 WhiteOak Capital Mutual Fund,3302359.22,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,0.41,Emerging,2,96.43,10.82,98.85,3.72,1,False,,56.23,76.31
 WhiteOak Capital Mutual Fund,3739241.58,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,0.45,Emerging,1,100.0,13.23,84.33,4.47,1,False,,55.91,75.73
+WhiteOak Capital Mutual Fund,4484468.61,0.0,July - September 2026,April 2026 - March 2027,2026-Q2,0.51,Mid-sized,16,6.25,19.93,79.79,6.44,,True,promoted,55.44,75.03
 Zerodha Mutual Fund,157819.92,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,0.03,Emerging,15,33.33,,,,,False,,56.13,77.88
 Zerodha Mutual Fund,264297.23,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,0.04,Emerging,12,47.62,67.47,,1.31,3,False,,56.14,77.47
 Zerodha Mutual Fund,384028.44,907.73,October - December 2024,April 2024 - March 2025,2024-Q3,0.06,Emerging,12,47.62,45.3,,1.61,0,False,,55.88,77.0
@@ -415,6 +468,7 @@ Zerodha Mutual Fund,728253.95,13380.85,July - September 2025,April 2025 - March 
 Zerodha Mutual Fund,960616.43,36310.85,October - December 2025,April 2025 - March 2026,2025-Q3,0.12,Emerging,11,64.29,31.91,150.14,2.42,1,False,,55.85,76.16
 Zerodha Mutual Fund,1379300.81,65514.08,January - March 2026,April 2025 - March 2026,2025-Q4,0.17,Emerging,8,75.0,43.58,184.13,5.06,3,False,,56.23,76.31
 Zerodha Mutual Fund,1537341.98,73059.26,April - June 2026,April 2026 - March 2027,2026-Q1,0.18,Emerging,8,75.0,11.46,144.33,1.57,0,False,,55.91,75.73
+Zerodha Mutual Fund,1682086.38,78334.11,July - September 2026,April 2026 - March 2027,2026-Q2,0.19,Emerging,7,80.65,9.42,130.98,0.8,1,False,,55.44,75.03
 quant Mutual Fund,8120437.85,0.0,April - June 2024,April 2024 - March 2025,2024-Q1,1.38,Mid-sized,10,40.0,,,,,False,,56.13,77.88
 quant Mutual Fund,9710395.72,0.0,July - September 2024,April 2024 - March 2025,2024-Q2,1.47,Mid-sized,9,46.67,19.58,,8.92,1,False,,56.14,77.47
 quant Mutual Fund,9669662.17,0.0,October - December 2024,April 2024 - March 2025,2024-Q3,1.41,Mid-sized,10,40.0,-0.42,,-5.71,-1,False,,55.88,77.0
@@ -424,3 +478,4 @@ quant Mutual Fund,9624054.83,0.0,July - September 2025,April 2025 - March 2026,2
 quant Mutual Fund,9611006.79,0.0,October - December 2025,April 2025 - March 2026,2025-Q3,1.19,Mid-sized,12,26.67,-0.14,-0.61,-6.12,0,False,,55.85,76.16
 quant Mutual Fund,8836253.87,0.0,January - March 2026,April 2025 - March 2026,2025-Q4,1.08,Mid-sized,12,26.67,-8.06,-0.31,-10.27,0,False,,56.23,76.31
 quant Mutual Fund,9531439.5,0.0,April - June 2026,April 2026 - March 2027,2026-Q1,1.15,Mid-sized,12,26.67,7.87,1.83,6.27,0,False,,55.91,75.73
+quant Mutual Fund,10427395.24,1890.78,July - September 2026,April 2026 - March 2027,2026-Q2,1.2,Mid-sized,12,31.25,9.4,8.35,4.92,0,False,,55.44,75.03
