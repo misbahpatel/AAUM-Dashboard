@@ -213,9 +213,14 @@ def add_metrics(history_df, expected_periods):
     ).astype("Int64")
 
     tier_order = ["Emerging", "Mid-sized", "Large"]
-   grid["tier_changed"] = (
-    grid["prev_scale_tier"].notna() & grid["scale_tier"].notna() & ~same_tier
-)
+
+    # A tier change is only meaningful when BOTH the current and previous quarter have a
+    # known tier. Without the scale_tier.notna() check, a gap quarter (reindexed to NaN,
+    # e.g. a missing fetch) would have scale_tier = NaN, same_tier would evaluate to False
+    # (NaN never equals anything), and this row would be wrongly flagged as "changed" —
+    # then the lambda below would crash trying tier_order.index(NaN).
+    grid["tier_changed"] = grid["prev_scale_tier"].notna() & grid["scale_tier"].notna() & ~same_tier
+
     grid["tier_change_direction"] = None
     grid.loc[grid["tier_changed"], "tier_change_direction"] = grid.loc[grid["tier_changed"]].apply(
         lambda r: "promoted" if tier_order.index(r["scale_tier"]) > tier_order.index(r["prev_scale_tier"])
